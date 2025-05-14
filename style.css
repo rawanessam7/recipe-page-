@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    <img src=""C:\Users\moham\Desktop\PANCAKE.jpg"" width="200">
+    <h1>Panecake Recipe</h1>
+    <p>simple easy breakfast meal , which eveyone loves</p>
+
+<div>
+   
+ <h4>preparation time</h4>
+
+<ul class="ex">
+    <li><strong>total</strong>: 10 min</li>
+
+    <li><strong>preparation</strong>: 5min</li>
+
+    <li><strong>cooking</strong>: 5min</li>
+</ul>
+
+</div>
+
+    <h2 class="pancake"> Ingredients</h2>
+    <ul class="ingredients">
+    <li> 1 egg</li>
+    <li> cup of flour </li>
+    <li> 1 tsp baking powder</li>
+    <li>3 tsp suger</li>
+    <li>1 cup of milk</li>
+    <li>2 tsp of oil</li>
+    </ul>
+    <hr width="80%" size="1" color="purple">
+    <h2 class="pancake">Instructions</h2>
+    <ol>
+
+        
+        <li> in a bowl mix all the ingredients </li>
+        <li> put 2 tsp of the batter in a pan </li>
+        <li> flip it when you think it is ready ' b al7ob '</li>
+
+    </ol>
+    <hr width="80%" size="1" color="purple">
+    <h2 class="pancake">Nutrition</h2>
+
+    <p> The table below shows nutritional value per serving</p>
+    <table>
+<tr>
+    <th>items</th>
+    <th class="space">cskj</th>
+</tr>
+<tr>
+    <td>items1</td>
+    <td class="space">kjhg</td>
+</tr>
+    </table>
+
+</body>
+</html>
+
+
+
